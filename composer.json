@@ -1,0 +1,21 @@
+{
+    "name": "ibrarturi/yii2-latlng-finder",
+    "description": "Find Latitude and Longitude using google maps",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","latitude","longitude","google map","coordinates","finder","picker"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ibrar Turi",
+            "email": "ibrarturi@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ibrarturi\\latlngfinder\\": ""
+        }
+    }
+}
