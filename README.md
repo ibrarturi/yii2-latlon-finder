@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist ibrarturi/yii2-latlng-finder "*"
+php composer.phar require --prefer-dist ibrarturi/yii2-latlng-finder "dev-master"
 ```
 
 or add
 
 ```
-"ibrarturi/yii2-latlng-finder": "*"
+"ibrarturi/yii2-latlng-finder": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
